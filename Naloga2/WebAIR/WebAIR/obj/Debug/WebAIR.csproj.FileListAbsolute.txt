@@ -1,0 +1,13 @@
+C:\Users\bostj\Documents\FERI\2.Letnik\2.Semester\Računalniska Omrezja\WebAIR\WebAIR\bin\WebAIR.dll.config
+C:\Users\bostj\Documents\FERI\2.Letnik\2.Semester\Računalniska Omrezja\WebAIR\WebAIR\bin\WebAIR.dll
+C:\Users\bostj\Documents\FERI\2.Letnik\2.Semester\Računalniska Omrezja\WebAIR\WebAIR\bin\WebAIR.pdb
+C:\Users\bostj\Documents\FERI\2.Letnik\2.Semester\Računalniska Omrezja\WebAIR\WebAIR\obj\Debug\WebAIR.csprojResolveAssemblyReference.cache
+C:\Users\bostj\Documents\FERI\2.Letnik\2.Semester\Računalniska Omrezja\WebAIR\WebAIR\obj\Debug\WebAIR.dll
+C:\Users\bostj\Documents\FERI\2.Letnik\2.Semester\Računalniska Omrezja\WebAIR\WebAIR\obj\Debug\WebAIR.pdb
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga2\WebAIR\WebAIR\bin\WebAIR.dll.config
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga2\WebAIR\WebAIR\bin\WebAIR.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga2\WebAIR\WebAIR\bin\WebAIR.pdb
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga2\WebAIR\WebAIR\obj\Debug\WebAIR.csprojResolveAssemblyReference.cache
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga2\WebAIR\WebAIR\obj\Debug\WebAIR.csproj.CoreCompileInputs.cache
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga2\WebAIR\WebAIR\obj\Debug\WebAIR.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga2\WebAIR\WebAIR\obj\Debug\WebAIR.pdb

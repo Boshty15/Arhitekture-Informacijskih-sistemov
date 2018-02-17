@@ -1,0 +1,13 @@
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Client\bin\Debug\Client.exe.config
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Client\bin\Debug\Client.exe
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Client\bin\Debug\Client.pdb
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Client\obj\Debug\Client.exe
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Client\obj\Debug\Client.pdb
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Client\obj\Debug\Client.exe
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Client\obj\Debug\Client.pdb
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Client\bin\Debug\Client.exe.config
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Client\bin\Debug\Client.exe
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Client\bin\Debug\Client.pdb

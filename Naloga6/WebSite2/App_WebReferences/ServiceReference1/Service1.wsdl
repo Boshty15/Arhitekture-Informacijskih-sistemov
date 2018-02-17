@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Service1" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:4115/Service1.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:4115/Service1.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:4115/Service1.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/WcfService" />
+      <xsd:import schemaLocation="http://localhost:4115/Service1.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IService1_GetData_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetData" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetData_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetDataUsingDataContract_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDataUsingDataContract" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetDataUsingDataContract_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDataUsingDataContractResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getpodjetjeMax_InputMessage">
+    <wsdl:part name="parameters" element="tns:getpodjetjeMax" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getpodjetjeMax_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getpodjetjeMaxResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getOsebeVPod_InputMessage">
+    <wsdl:part name="parameters" element="tns:getOsebeVPod" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getOsebeVPod_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getOsebeVPodResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getOsebaIme_InputMessage">
+    <wsdl:part name="parameters" element="tns:getOsebaIme" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getOsebaIme_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getOsebaImeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_minOseba_InputMessage">
+    <wsdl:part name="parameters" element="tns:minOseba" />
+  </wsdl:message>
+  <wsdl:message name="IService1_minOseba_OutputMessage">
+    <wsdl:part name="parameters" element="tns:minOsebaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_listOseb_InputMessage">
+    <wsdl:part name="parameters" element="tns:listOseb" />
+  </wsdl:message>
+  <wsdl:message name="IService1_listOseb_OutputMessage">
+    <wsdl:part name="parameters" element="tns:listOsebResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_listaPodjetja_InputMessage">
+    <wsdl:part name="parameters" element="tns:listaPodjetja" />
+  </wsdl:message>
+  <wsdl:message name="IService1_listaPodjetja_OutputMessage">
+    <wsdl:part name="parameters" element="tns:listaPodjetjaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_povprecna_InputMessage">
+    <wsdl:part name="parameters" element="tns:povprecna" />
+  </wsdl:message>
+  <wsdl:message name="IService1_povprecna_OutputMessage">
+    <wsdl:part name="parameters" element="tns:povprecnaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getOsebeAll_InputMessage">
+    <wsdl:part name="parameters" element="tns:getOsebeAll" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getOsebeAll_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getOsebeAllResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getPodjetjeAll_InputMessage">
+    <wsdl:part name="parameters" element="tns:getPodjetjeAll" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getPodjetjeAll_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getPodjetjeAllResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_isAdmin_InputMessage">
+    <wsdl:part name="parameters" element="tns:isAdmin" />
+  </wsdl:message>
+  <wsdl:message name="IService1_isAdmin_OutputMessage">
+    <wsdl:part name="parameters" element="tns:isAdminResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getPodjetjeWithMaxOseb_InputMessage">
+    <wsdl:part name="parameters" element="tns:getPodjetjeWithMaxOseb" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getPodjetjeWithMaxOseb_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getPodjetjeWithMaxOsebResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getOsebaWithMaxPod_InputMessage">
+    <wsdl:part name="parameters" element="tns:getOsebaWithMaxPod" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getOsebaWithMaxPod_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getOsebaWithMaxPodResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertNewOseba_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertNewOseba" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertNewOseba_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertNewOsebaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertNewPodjetje_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertNewPodjetje" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertNewPodjetje_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertNewPodjetjeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertNewUser_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertNewUser" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertNewUser_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertNewUserResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_RemoveOseba_InputMessage">
+    <wsdl:part name="parameters" element="tns:RemoveOseba" />
+  </wsdl:message>
+  <wsdl:message name="IService1_RemoveOseba_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RemoveOsebaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_RemovePodjetje_InputMessage">
+    <wsdl:part name="parameters" element="tns:RemovePodjetje" />
+  </wsdl:message>
+  <wsdl:message name="IService1_RemovePodjetje_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RemovePodjetjeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddOsebaVPodjetje_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddOsebaVPodjetje" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddOsebaVPodjetje_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddOsebaVPodjetjeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_RemoveOsebeIzPodjetja_InputMessage">
+    <wsdl:part name="parameters" element="tns:RemoveOsebeIzPodjetja" />
+  </wsdl:message>
+  <wsdl:message name="IService1_RemoveOsebeIzPodjetja_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RemoveOsebeIzPodjetjaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateOsebe_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateOsebe" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateOsebe_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateOsebeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdatePodjetje_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdatePodjetje" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdatePodjetje_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdatePodjetjeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_OdstraniOsebo_InputMessage">
+    <wsdl:part name="parameters" element="tns:OdstraniOsebo" />
+  </wsdl:message>
+  <wsdl:message name="IService1_OdstraniOsebo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:OdstraniOseboResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_OdstraniPodjetje_InputMessage">
+    <wsdl:part name="parameters" element="tns:OdstraniPodjetje" />
+  </wsdl:message>
+  <wsdl:message name="IService1_OdstraniPodjetje_OutputMessage">
+    <wsdl:part name="parameters" element="tns:OdstraniPodjetjeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_RemoveOsebeIzPodjetjaByIndex_InputMessage">
+    <wsdl:part name="parameters" element="tns:RemoveOsebeIzPodjetjaByIndex" />
+  </wsdl:message>
+  <wsdl:message name="IService1_RemoveOsebeIzPodjetjaByIndex_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RemoveOsebeIzPodjetjaByIndexResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddOsebaVPodjetjeByIndex_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddOsebaVPodjetjeByIndex" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddOsebaVPodjetjeByIndex_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddOsebaVPodjetjeByIndexResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IService1">
+    <wsdl:operation name="GetData">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetData" message="tns:IService1_GetData_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetDataResponse" message="tns:IService1_GetData_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDataUsingDataContract">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetDataUsingDataContract" message="tns:IService1_GetDataUsingDataContract_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetDataUsingDataContractResponse" message="tns:IService1_GetDataUsingDataContract_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getpodjetjeMax">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/getpodjetjeMax" message="tns:IService1_getpodjetjeMax_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/getpodjetjeMaxResponse" message="tns:IService1_getpodjetjeMax_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getOsebeVPod">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/getOsebeVPod" message="tns:IService1_getOsebeVPod_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/getOsebeVPodResponse" message="tns:IService1_getOsebeVPod_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getOsebaIme">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/getOsebaIme" message="tns:IService1_getOsebaIme_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/getOsebaImeResponse" message="tns:IService1_getOsebaIme_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="minOseba">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/minOseba" message="tns:IService1_minOseba_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/minOsebaResponse" message="tns:IService1_minOseba_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="listOseb">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/listOseb" message="tns:IService1_listOseb_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/listOsebResponse" message="tns:IService1_listOseb_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="listaPodjetja">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/listaPodjetja" message="tns:IService1_listaPodjetja_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/listaPodjetjaResponse" message="tns:IService1_listaPodjetja_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="povprecna">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/povprecna" message="tns:IService1_povprecna_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/povprecnaResponse" message="tns:IService1_povprecna_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getOsebeAll">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/getOsebeAll" message="tns:IService1_getOsebeAll_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/getOsebeAllResponse" message="tns:IService1_getOsebeAll_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getPodjetjeAll">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/getPodjetjeAll" message="tns:IService1_getPodjetjeAll_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/getPodjetjeAllResponse" message="tns:IService1_getPodjetjeAll_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="isAdmin">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/isAdmin" message="tns:IService1_isAdmin_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/isAdminResponse" message="tns:IService1_isAdmin_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getPodjetjeWithMaxOseb">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/getPodjetjeWithMaxOseb" message="tns:IService1_getPodjetjeWithMaxOseb_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/getPodjetjeWithMaxOsebResponse" message="tns:IService1_getPodjetjeWithMaxOseb_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getOsebaWithMaxPod">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/getOsebaWithMaxPod" message="tns:IService1_getOsebaWithMaxPod_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/getOsebaWithMaxPodResponse" message="tns:IService1_getOsebaWithMaxPod_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertNewOseba">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/InsertNewOseba" message="tns:IService1_InsertNewOseba_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InsertNewOsebaResponse" message="tns:IService1_InsertNewOseba_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertNewPodjetje">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/InsertNewPodjetje" message="tns:IService1_InsertNewPodjetje_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InsertNewPodjetjeResponse" message="tns:IService1_InsertNewPodjetje_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertNewUser">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/InsertNewUser" message="tns:IService1_InsertNewUser_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InsertNewUserResponse" message="tns:IService1_InsertNewUser_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RemoveOseba">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/RemoveOseba" message="tns:IService1_RemoveOseba_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/RemoveOsebaResponse" message="tns:IService1_RemoveOseba_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RemovePodjetje">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/RemovePodjetje" message="tns:IService1_RemovePodjetje_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/RemovePodjetjeResponse" message="tns:IService1_RemovePodjetje_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddOsebaVPodjetje">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/AddOsebaVPodjetje" message="tns:IService1_AddOsebaVPodjetje_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddOsebaVPodjetjeResponse" message="tns:IService1_AddOsebaVPodjetje_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RemoveOsebeIzPodjetja">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/RemoveOsebeIzPodjetja" message="tns:IService1_RemoveOsebeIzPodjetja_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/RemoveOsebeIzPodjetjaResponse" message="tns:IService1_RemoveOsebeIzPodjetja_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateOsebe">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/UpdateOsebe" message="tns:IService1_UpdateOsebe_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdateOsebeResponse" message="tns:IService1_UpdateOsebe_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdatePodjetje">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/UpdatePodjetje" message="tns:IService1_UpdatePodjetje_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdatePodjetjeResponse" message="tns:IService1_UpdatePodjetje_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="OdstraniOsebo">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/OdstraniOsebo" message="tns:IService1_OdstraniOsebo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/OdstraniOseboResponse" message="tns:IService1_OdstraniOsebo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="OdstraniPodjetje">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/OdstraniPodjetje" message="tns:IService1_OdstraniPodjetje_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/OdstraniPodjetjeResponse" message="tns:IService1_OdstraniPodjetje_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RemoveOsebeIzPodjetjaByIndex">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/RemoveOsebeIzPodjetjaByIndex" message="tns:IService1_RemoveOsebeIzPodjetjaByIndex_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/RemoveOsebeIzPodjetjaByIndexResponse" message="tns:IService1_RemoveOsebeIzPodjetjaByIndex_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddOsebaVPodjetjeByIndex">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/AddOsebaVPodjetjeByIndex" message="tns:IService1_AddOsebaVPodjetjeByIndex_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddOsebaVPodjetjeByIndexResponse" message="tns:IService1_AddOsebaVPodjetjeByIndex_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IService1" type="tns:IService1">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetData">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDataUsingDataContract">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetDataUsingDataContract" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getpodjetjeMax">
+      <soap:operation soapAction="http://tempuri.org/IService1/getpodjetjeMax" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getOsebeVPod">
+      <soap:operation soapAction="http://tempuri.org/IService1/getOsebeVPod" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getOsebaIme">
+      <soap:operation soapAction="http://tempuri.org/IService1/getOsebaIme" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="minOseba">
+      <soap:operation soapAction="http://tempuri.org/IService1/minOseba" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listOseb">
+      <soap:operation soapAction="http://tempuri.org/IService1/listOseb" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listaPodjetja">
+      <soap:operation soapAction="http://tempuri.org/IService1/listaPodjetja" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="povprecna">
+      <soap:operation soapAction="http://tempuri.org/IService1/povprecna" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getOsebeAll">
+      <soap:operation soapAction="http://tempuri.org/IService1/getOsebeAll" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getPodjetjeAll">
+      <soap:operation soapAction="http://tempuri.org/IService1/getPodjetjeAll" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="isAdmin">
+      <soap:operation soapAction="http://tempuri.org/IService1/isAdmin" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getPodjetjeWithMaxOseb">
+      <soap:operation soapAction="http://tempuri.org/IService1/getPodjetjeWithMaxOseb" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getOsebaWithMaxPod">
+      <soap:operation soapAction="http://tempuri.org/IService1/getOsebaWithMaxPod" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertNewOseba">
+      <soap:operation soapAction="http://tempuri.org/IService1/InsertNewOseba" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertNewPodjetje">
+      <soap:operation soapAction="http://tempuri.org/IService1/InsertNewPodjetje" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertNewUser">
+      <soap:operation soapAction="http://tempuri.org/IService1/InsertNewUser" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RemoveOseba">
+      <soap:operation soapAction="http://tempuri.org/IService1/RemoveOseba" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RemovePodjetje">
+      <soap:operation soapAction="http://tempuri.org/IService1/RemovePodjetje" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddOsebaVPodjetje">
+      <soap:operation soapAction="http://tempuri.org/IService1/AddOsebaVPodjetje" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RemoveOsebeIzPodjetja">
+      <soap:operation soapAction="http://tempuri.org/IService1/RemoveOsebeIzPodjetja" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateOsebe">
+      <soap:operation soapAction="http://tempuri.org/IService1/UpdateOsebe" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdatePodjetje">
+      <soap:operation soapAction="http://tempuri.org/IService1/UpdatePodjetje" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="OdstraniOsebo">
+      <soap:operation soapAction="http://tempuri.org/IService1/OdstraniOsebo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="OdstraniPodjetje">
+      <soap:operation soapAction="http://tempuri.org/IService1/OdstraniPodjetje" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RemoveOsebeIzPodjetjaByIndex">
+      <soap:operation soapAction="http://tempuri.org/IService1/RemoveOsebeIzPodjetjaByIndex" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddOsebaVPodjetjeByIndex">
+      <soap:operation soapAction="http://tempuri.org/IService1/AddOsebaVPodjetjeByIndex" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="BasicHttpBinding_IService1" binding="tns:BasicHttpBinding_IService1">
+      <soap:address location="http://localhost:4115/Service1.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

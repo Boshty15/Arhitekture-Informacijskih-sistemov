@@ -1,0 +1,389 @@
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\ApplicationInsights.config
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Vaja_3_SOAP_DB.dll.config
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Vaja_3_SOAP_DB.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Vaja_3_SOAP_DB.pdb
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csc.exe
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csc.exe.config
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csc.rsp
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csi.exe
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csi.exe.config
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csi.rsp
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.AppContext.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Console.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\vbc.exe
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\vbc.exe.config
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\vbc.rsp
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\EntityFramework.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\EntityFramework.SqlServer.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.Web.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\EntityFramework.xml
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\EntityFramework.SqlServer.xml
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.Web.xml
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\obj\Debug\Vaja_3_SOAP_DB.dll
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\obj\Debug\Vaja_3_SOAP_DB.pdb
+C:\Users\Mitja Sanković\Dropbox\Faks\3 letnik\AIS\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\obj\Debug\Vaja_3_SOAP_DB.csprojResolveAssemblyReference.cache
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\ApplicationInsights.config
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Vaja_3_SOAP_DB.dll.config
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Vaja_3_SOAP_DB.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Vaja_3_SOAP_DB.pdb
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csc.exe
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csc.exe.config
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csc.rsp
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csi.exe
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csi.exe.config
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csi.rsp
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.AppContext.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Console.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Diagnostics.Process.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.IO.Compression.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.IO.FileSystem.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.IO.Pipes.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.AccessControl.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Claims.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Principal.Windows.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Threading.Thread.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.ValueTuple.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Xml.XmlDocument.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Xml.XPath.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\vbc.exe
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\vbc.exe.config
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\vbc.rsp
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\VBCSCompiler.exe
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\EntityFramework.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\EntityFramework.SqlServer.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.Agent.Intercept.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.DependencyCollector.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.Web.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.WindowsServer.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.ApplicationInsights.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\System.Diagnostics.DiagnosticSource.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\EntityFramework.xml
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\EntityFramework.SqlServer.xml
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.DependencyCollector.xml
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.Web.xml
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.WindowsServer.xml
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.ApplicationInsights.xml
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\System.Diagnostics.DiagnosticSource.xml
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\obj\Debug\Vaja_3_SOAP_DB.csprojResolveAssemblyReference.cache
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\obj\Debug\Vaja_3_SOAP_DB.csproj.CoreCompileInputs.cache
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\obj\Debug\Vaja_3_SOAP_DB.dll
+c:\Users\Bostjan\Desktop\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\obj\Debug\Vaja_3_SOAP_DB.pdb
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\ApplicationInsights.config
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Vaja_3_SOAP_DB.dll.config
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Vaja_3_SOAP_DB.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Vaja_3_SOAP_DB.pdb
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csc.exe
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csc.exe.config
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csc.rsp
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csi.exe
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csi.exe.config
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csi.rsp
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.AppContext.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Console.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Diagnostics.Process.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.IO.Compression.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.IO.FileSystem.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.IO.Pipes.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.AccessControl.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Claims.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Principal.Windows.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Threading.Thread.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.ValueTuple.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Xml.XmlDocument.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Xml.XPath.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\vbc.exe
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\vbc.exe.config
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\vbc.rsp
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\VBCSCompiler.exe
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\EntityFramework.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\EntityFramework.SqlServer.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.Agent.Intercept.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.DependencyCollector.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.Web.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.WindowsServer.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.ApplicationInsights.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\System.Diagnostics.DiagnosticSource.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\EntityFramework.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\EntityFramework.SqlServer.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.DependencyCollector.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.Web.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.WindowsServer.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.ApplicationInsights.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\System.Diagnostics.DiagnosticSource.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\obj\Debug\Vaja_3_SOAP_DB.csprojResolveAssemblyReference.cache
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\obj\Debug\Vaja_3_SOAP_DB.csproj.CoreCompileInputs.cache
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\obj\Debug\Vaja_3_SOAP_DB.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga3\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\obj\Debug\Vaja_3_SOAP_DB.pdb
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\ApplicationInsights.config
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Vaja_3_SOAP_DB.dll.config
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Vaja_3_SOAP_DB.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Vaja_3_SOAP_DB.pdb
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csc.exe
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csc.exe.config
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csc.rsp
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csi.exe
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csi.exe.config
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csi.rsp
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.AppContext.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Console.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Diagnostics.Process.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.IO.Compression.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.IO.FileSystem.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.IO.Pipes.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.AccessControl.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Claims.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Principal.Windows.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Threading.Thread.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.ValueTuple.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Xml.XmlDocument.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Xml.XPath.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\vbc.exe
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\vbc.exe.config
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\vbc.rsp
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\VBCSCompiler.exe
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\EntityFramework.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\EntityFramework.SqlServer.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.Agent.Intercept.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.DependencyCollector.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.Web.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.WindowsServer.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.ApplicationInsights.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\System.Diagnostics.DiagnosticSource.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\EntityFramework.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\EntityFramework.SqlServer.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.DependencyCollector.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.Web.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.WindowsServer.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.ApplicationInsights.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\System.Diagnostics.DiagnosticSource.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\obj\Debug\Vaja_3_SOAP_DB.csprojResolveAssemblyReference.cache
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\obj\Debug\Vaja_3_SOAP_DB.csproj.CoreCompileInputs.cache
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\obj\Debug\Vaja_3_SOAP_DB.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga4\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\obj\Debug\Vaja_3_SOAP_DB.pdb
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\ApplicationInsights.config
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Vaja_3_SOAP_DB.dll.config
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Vaja_3_SOAP_DB.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Vaja_3_SOAP_DB.pdb
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csc.exe
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csc.exe.config
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csc.rsp
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csi.exe
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csi.exe.config
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\csi.rsp
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.AppContext.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Console.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Diagnostics.Process.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.IO.Compression.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.IO.FileSystem.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.IO.Pipes.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.AccessControl.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Claims.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Security.Principal.Windows.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Threading.Thread.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.ValueTuple.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Xml.XmlDocument.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Xml.XPath.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\vbc.exe
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\vbc.exe.config
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\vbc.rsp
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\VBCSCompiler.exe
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\EntityFramework.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\EntityFramework.SqlServer.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.Agent.Intercept.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.DependencyCollector.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.Web.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.WindowsServer.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.ApplicationInsights.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\System.Diagnostics.DiagnosticSource.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\EntityFramework.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\EntityFramework.SqlServer.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.DependencyCollector.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.Web.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AI.WindowsServer.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.ApplicationInsights.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\bin\System.Diagnostics.DiagnosticSource.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\obj\Debug\Vaja_3_SOAP_DB.csprojResolveAssemblyReference.cache
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\obj\Debug\Vaja_3_SOAP_DB.csproj.CoreCompileInputs.cache
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\obj\Debug\Vaja_3_SOAP_DB.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga5\Vaja_3_SOAP_DB\Vaja_3_SOAP_DB\obj\Debug\Vaja_3_SOAP_DB.pdb

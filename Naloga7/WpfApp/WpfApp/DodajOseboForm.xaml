@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfApp.DodajOseboForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp"
+        mc:Ignorable="d"
+        Title="DodajOseboForm" Height="300" Width="300">
+    <Grid>
+        <Label Content="Ime Osebe:" HorizontalAlignment="Left" Margin="50,55,0,0" VerticalAlignment="Top"/>
+        <Label Content="Priimek Osebe:" HorizontalAlignment="Left" Margin="50,86,0,0" VerticalAlignment="Top"/>
+        <Label Content="Leto rojstva:" HorizontalAlignment="Left" Margin="50,124,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtBIme" HorizontalAlignment="Left" Height="23" Margin="149,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtBPriimek" HorizontalAlignment="Left" Height="23" Margin="149,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="149,128,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="bttPotrdi" Content="Potrdi" HorizontalAlignment="Left" Margin="50,190,0,0" VerticalAlignment="Top" Width="75" Click="bttPotrdi_Click"/>
+        <Button x:Name="bttPreklici" Content="Prekliči" HorizontalAlignment="Left" Margin="194,190,0,0" VerticalAlignment="Top" Width="75" Click="bttPreklici_Click"/>
+
+    </Grid>
+</Window>

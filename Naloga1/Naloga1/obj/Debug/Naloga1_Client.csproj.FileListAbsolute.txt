@@ -1,0 +1,7 @@
+C:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga1\Naloga1\bin\Debug\Naloga1.exe.config
+C:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga1\Naloga1\bin\Debug\Naloga1.exe
+C:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga1\Naloga1\bin\Debug\Naloga1.pdb
+C:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga1\Naloga1\obj\Debug\Naloga1_Client.csprojResolveAssemblyReference.cache
+C:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga1\Naloga1\obj\Debug\Naloga1_Client.csproj.CoreCompileInputs.cache
+C:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga1\Naloga1\obj\Debug\Naloga1.exe
+C:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga1\Naloga1\obj\Debug\Naloga1.pdb

@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="getPodjetjeMax">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pod" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getPodjetjeMaxResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getPodjetjeMaxResult" type="tns:OsebaVPodjetju" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="OsebaVPodjetju">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="OsebaVPodjetjuId" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="letoOd" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="letoDo" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="delovnoMesto" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="OsebaId" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="PodjetjeId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Oseba" type="tns:Oseba" />
+          <s:element minOccurs="0" maxOccurs="1" name="Podjetje" type="tns:Podjetje" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Oseba">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="OsebaId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="ime" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="priimek" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="letoRojstva" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Podjetje">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="PodjetjeId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="naziv" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="panoga" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="letoUstanovitve" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="getOsebeVPod">
+        <s:complexType />
+      </s:element>
+      <s:element name="getOsebeVPodResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getOsebeVPodResult" type="tns:ArrayOfOseba" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfOseba">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Oseba" nillable="true" type="tns:Oseba" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="getOsebaIme">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="vnesenoIme" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getOsebaImeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getOsebaImeResult" type="tns:Oseba" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="minOseba">
+        <s:complexType />
+      </s:element>
+      <s:element name="minOsebaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="minOsebaResult" type="tns:Oseba" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="listaOseb">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="imePod" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="listaOsebResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="listaOsebResult" type="tns:ArrayOfOseba" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="listaPodjetja">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="imeOsebe" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="listaPodjetjaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="listaPodjetjaResult" type="tns:ArrayOfPodjetje" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfPodjetje">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Podjetje" nillable="true" type="tns:Podjetje" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="povprecna">
+        <s:complexType />
+      </s:element>
+      <s:element name="povprecnaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="povprecnaResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getOsebeAll">
+        <s:complexType />
+      </s:element>
+      <s:element name="getOsebeAllResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getOsebeAllResult" type="tns:ArrayOfOseba" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getPodjetjeAll">
+        <s:complexType />
+      </s:element>
+      <s:element name="getPodjetjeAllResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getPodjetjeAllResult" type="tns:ArrayOfPodjetje" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="isAdministrator">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="rac" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="geslo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="isAdministratorResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="isAdministratorResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getPodjetjeWithMaxOseb">
+        <s:complexType />
+      </s:element>
+      <s:element name="getPodjetjeWithMaxOsebResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getPodjetjeWithMaxOsebResult" type="tns:Podjetje" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getOsebaWithMaxPod">
+        <s:complexType />
+      </s:element>
+      <s:element name="getOsebaWithMaxPodResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getOsebaWithMaxPodResult" type="tns:Oseba" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertNewOseba">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ime" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="priimek" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="letoRojstva" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertNewOsebaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="InsertNewOsebaResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertNewPodjetje">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="naziv" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="panoga" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="leto" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertNewPodjetjeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="InsertNewPodjetjeResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertNewUser">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ime" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="geslo" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="admin" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertNewUserResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="InsertNewUserResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RemoveOseba">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ime" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="priimek" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RemoveOsebaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="RemoveOsebaResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RemovePodjetje">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="naziv" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RemovePodjetjeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="RemovePodjetjeResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AddOsebaVPodjetje">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ime" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="priimek" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="nazivPod" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="delovnoMesto" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="letoDo" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AddOsebaVPodjetjeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AddOsebaVPodjetjeResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RemoveOsebeIzPodjetja">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ime" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="priimek" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="naziv" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RemoveOsebeIzPodjetjaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="RemoveOsebeIzPodjetjaResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateOsebe">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ime" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="priimek" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="newIme" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="newPriimek" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="newLeto" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateOsebeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="UpdateOsebeResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdatePodjetje">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="naziv" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="newNaziv" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="newPanoga" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="newLeto" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdatePodjetjeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="UpdatePodjetjeResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="OdstraniOsebo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="id" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="OdstraniOseboResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="OdstraniOseboResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="OdstraniPodjetje">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="id" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="OdstraniPodjetjeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="OdstraniPodjetjeResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="OdstraniOseboIzPodjetjaByIndex">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="indexOseba" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="indexPodjetej" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="OdstraniOseboIzPodjetjaByIndexResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="OdstraniOseboIzPodjetjaByIndexResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AddOsebaVPodjetjeByIndex">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="indexO" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="indexP" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="delovnoMesto" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="letoDo" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AddOsebaVPodjetjeByIndexResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AddOsebaVPodjetjeByIndexResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="getPodjetjeMaxSoapIn">
+    <wsdl:part name="parameters" element="tns:getPodjetjeMax" />
+  </wsdl:message>
+  <wsdl:message name="getPodjetjeMaxSoapOut">
+    <wsdl:part name="parameters" element="tns:getPodjetjeMaxResponse" />
+  </wsdl:message>
+  <wsdl:message name="getOsebeVPodSoapIn">
+    <wsdl:part name="parameters" element="tns:getOsebeVPod" />
+  </wsdl:message>
+  <wsdl:message name="getOsebeVPodSoapOut">
+    <wsdl:part name="parameters" element="tns:getOsebeVPodResponse" />
+  </wsdl:message>
+  <wsdl:message name="getOsebaImeSoapIn">
+    <wsdl:part name="parameters" element="tns:getOsebaIme" />
+  </wsdl:message>
+  <wsdl:message name="getOsebaImeSoapOut">
+    <wsdl:part name="parameters" element="tns:getOsebaImeResponse" />
+  </wsdl:message>
+  <wsdl:message name="minOsebaSoapIn">
+    <wsdl:part name="parameters" element="tns:minOseba" />
+  </wsdl:message>
+  <wsdl:message name="minOsebaSoapOut">
+    <wsdl:part name="parameters" element="tns:minOsebaResponse" />
+  </wsdl:message>
+  <wsdl:message name="listaOsebSoapIn">
+    <wsdl:part name="parameters" element="tns:listaOseb" />
+  </wsdl:message>
+  <wsdl:message name="listaOsebSoapOut">
+    <wsdl:part name="parameters" element="tns:listaOsebResponse" />
+  </wsdl:message>
+  <wsdl:message name="listaPodjetjaSoapIn">
+    <wsdl:part name="parameters" element="tns:listaPodjetja" />
+  </wsdl:message>
+  <wsdl:message name="listaPodjetjaSoapOut">
+    <wsdl:part name="parameters" element="tns:listaPodjetjaResponse" />
+  </wsdl:message>
+  <wsdl:message name="povprecnaSoapIn">
+    <wsdl:part name="parameters" element="tns:povprecna" />
+  </wsdl:message>
+  <wsdl:message name="povprecnaSoapOut">
+    <wsdl:part name="parameters" element="tns:povprecnaResponse" />
+  </wsdl:message>
+  <wsdl:message name="getOsebeAllSoapIn">
+    <wsdl:part name="parameters" element="tns:getOsebeAll" />
+  </wsdl:message>
+  <wsdl:message name="getOsebeAllSoapOut">
+    <wsdl:part name="parameters" element="tns:getOsebeAllResponse" />
+  </wsdl:message>
+  <wsdl:message name="getPodjetjeAllSoapIn">
+    <wsdl:part name="parameters" element="tns:getPodjetjeAll" />
+  </wsdl:message>
+  <wsdl:message name="getPodjetjeAllSoapOut">
+    <wsdl:part name="parameters" element="tns:getPodjetjeAllResponse" />
+  </wsdl:message>
+  <wsdl:message name="isAdministratorSoapIn">
+    <wsdl:part name="parameters" element="tns:isAdministrator" />
+  </wsdl:message>
+  <wsdl:message name="isAdministratorSoapOut">
+    <wsdl:part name="parameters" element="tns:isAdministratorResponse" />
+  </wsdl:message>
+  <wsdl:message name="getPodjetjeWithMaxOsebSoapIn">
+    <wsdl:part name="parameters" element="tns:getPodjetjeWithMaxOseb" />
+  </wsdl:message>
+  <wsdl:message name="getPodjetjeWithMaxOsebSoapOut">
+    <wsdl:part name="parameters" element="tns:getPodjetjeWithMaxOsebResponse" />
+  </wsdl:message>
+  <wsdl:message name="getOsebaWithMaxPodSoapIn">
+    <wsdl:part name="parameters" element="tns:getOsebaWithMaxPod" />
+  </wsdl:message>
+  <wsdl:message name="getOsebaWithMaxPodSoapOut">
+    <wsdl:part name="parameters" element="tns:getOsebaWithMaxPodResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertNewOsebaSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertNewOseba" />
+  </wsdl:message>
+  <wsdl:message name="InsertNewOsebaSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertNewOsebaResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertNewPodjetjeSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertNewPodjetje" />
+  </wsdl:message>
+  <wsdl:message name="InsertNewPodjetjeSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertNewPodjetjeResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertNewUserSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertNewUser" />
+  </wsdl:message>
+  <wsdl:message name="InsertNewUserSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertNewUserResponse" />
+  </wsdl:message>
+  <wsdl:message name="RemoveOsebaSoapIn">
+    <wsdl:part name="parameters" element="tns:RemoveOseba" />
+  </wsdl:message>
+  <wsdl:message name="RemoveOsebaSoapOut">
+    <wsdl:part name="parameters" element="tns:RemoveOsebaResponse" />
+  </wsdl:message>
+  <wsdl:message name="RemovePodjetjeSoapIn">
+    <wsdl:part name="parameters" element="tns:RemovePodjetje" />
+  </wsdl:message>
+  <wsdl:message name="RemovePodjetjeSoapOut">
+    <wsdl:part name="parameters" element="tns:RemovePodjetjeResponse" />
+  </wsdl:message>
+  <wsdl:message name="AddOsebaVPodjetjeSoapIn">
+    <wsdl:part name="parameters" element="tns:AddOsebaVPodjetje" />
+  </wsdl:message>
+  <wsdl:message name="AddOsebaVPodjetjeSoapOut">
+    <wsdl:part name="parameters" element="tns:AddOsebaVPodjetjeResponse" />
+  </wsdl:message>
+  <wsdl:message name="RemoveOsebeIzPodjetjaSoapIn">
+    <wsdl:part name="parameters" element="tns:RemoveOsebeIzPodjetja" />
+  </wsdl:message>
+  <wsdl:message name="RemoveOsebeIzPodjetjaSoapOut">
+    <wsdl:part name="parameters" element="tns:RemoveOsebeIzPodjetjaResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateOsebeSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateOsebe" />
+  </wsdl:message>
+  <wsdl:message name="UpdateOsebeSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateOsebeResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdatePodjetjeSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdatePodjetje" />
+  </wsdl:message>
+  <wsdl:message name="UpdatePodjetjeSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdatePodjetjeResponse" />
+  </wsdl:message>
+  <wsdl:message name="OdstraniOseboSoapIn">
+    <wsdl:part name="parameters" element="tns:OdstraniOsebo" />
+  </wsdl:message>
+  <wsdl:message name="OdstraniOseboSoapOut">
+    <wsdl:part name="parameters" element="tns:OdstraniOseboResponse" />
+  </wsdl:message>
+  <wsdl:message name="OdstraniPodjetjeSoapIn">
+    <wsdl:part name="parameters" element="tns:OdstraniPodjetje" />
+  </wsdl:message>
+  <wsdl:message name="OdstraniPodjetjeSoapOut">
+    <wsdl:part name="parameters" element="tns:OdstraniPodjetjeResponse" />
+  </wsdl:message>
+  <wsdl:message name="OdstraniOseboIzPodjetjaByIndexSoapIn">
+    <wsdl:part name="parameters" element="tns:OdstraniOseboIzPodjetjaByIndex" />
+  </wsdl:message>
+  <wsdl:message name="OdstraniOseboIzPodjetjaByIndexSoapOut">
+    <wsdl:part name="parameters" element="tns:OdstraniOseboIzPodjetjaByIndexResponse" />
+  </wsdl:message>
+  <wsdl:message name="AddOsebaVPodjetjeByIndexSoapIn">
+    <wsdl:part name="parameters" element="tns:AddOsebaVPodjetjeByIndex" />
+  </wsdl:message>
+  <wsdl:message name="AddOsebaVPodjetjeByIndexSoapOut">
+    <wsdl:part name="parameters" element="tns:AddOsebaVPodjetjeByIndexResponse" />
+  </wsdl:message>
+  <wsdl:portType name="StoritveIzpitiSoap">
+    <wsdl:operation name="getPodjetjeMax">
+      <wsdl:input message="tns:getPodjetjeMaxSoapIn" />
+      <wsdl:output message="tns:getPodjetjeMaxSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getOsebeVPod">
+      <wsdl:input message="tns:getOsebeVPodSoapIn" />
+      <wsdl:output message="tns:getOsebeVPodSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getOsebaIme">
+      <wsdl:input message="tns:getOsebaImeSoapIn" />
+      <wsdl:output message="tns:getOsebaImeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="minOseba">
+      <wsdl:input message="tns:minOsebaSoapIn" />
+      <wsdl:output message="tns:minOsebaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="listaOseb">
+      <wsdl:input message="tns:listaOsebSoapIn" />
+      <wsdl:output message="tns:listaOsebSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="listaPodjetja">
+      <wsdl:input message="tns:listaPodjetjaSoapIn" />
+      <wsdl:output message="tns:listaPodjetjaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="povprecna">
+      <wsdl:input message="tns:povprecnaSoapIn" />
+      <wsdl:output message="tns:povprecnaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getOsebeAll">
+      <wsdl:input message="tns:getOsebeAllSoapIn" />
+      <wsdl:output message="tns:getOsebeAllSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getPodjetjeAll">
+      <wsdl:input message="tns:getPodjetjeAllSoapIn" />
+      <wsdl:output message="tns:getPodjetjeAllSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="isAdministrator">
+      <wsdl:input message="tns:isAdministratorSoapIn" />
+      <wsdl:output message="tns:isAdministratorSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getPodjetjeWithMaxOseb">
+      <wsdl:input message="tns:getPodjetjeWithMaxOsebSoapIn" />
+      <wsdl:output message="tns:getPodjetjeWithMaxOsebSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getOsebaWithMaxPod">
+      <wsdl:input message="tns:getOsebaWithMaxPodSoapIn" />
+      <wsdl:output message="tns:getOsebaWithMaxPodSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertNewOseba">
+      <wsdl:input message="tns:InsertNewOsebaSoapIn" />
+      <wsdl:output message="tns:InsertNewOsebaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertNewPodjetje">
+      <wsdl:input message="tns:InsertNewPodjetjeSoapIn" />
+      <wsdl:output message="tns:InsertNewPodjetjeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertNewUser">
+      <wsdl:input message="tns:InsertNewUserSoapIn" />
+      <wsdl:output message="tns:InsertNewUserSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="RemoveOseba">
+      <wsdl:input message="tns:RemoveOsebaSoapIn" />
+      <wsdl:output message="tns:RemoveOsebaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="RemovePodjetje">
+      <wsdl:input message="tns:RemovePodjetjeSoapIn" />
+      <wsdl:output message="tns:RemovePodjetjeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AddOsebaVPodjetje">
+      <wsdl:input message="tns:AddOsebaVPodjetjeSoapIn" />
+      <wsdl:output message="tns:AddOsebaVPodjetjeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="RemoveOsebeIzPodjetja">
+      <wsdl:input message="tns:RemoveOsebeIzPodjetjaSoapIn" />
+      <wsdl:output message="tns:RemoveOsebeIzPodjetjaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateOsebe">
+      <wsdl:input message="tns:UpdateOsebeSoapIn" />
+      <wsdl:output message="tns:UpdateOsebeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdatePodjetje">
+      <wsdl:input message="tns:UpdatePodjetjeSoapIn" />
+      <wsdl:output message="tns:UpdatePodjetjeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="OdstraniOsebo">
+      <wsdl:input message="tns:OdstraniOseboSoapIn" />
+      <wsdl:output message="tns:OdstraniOseboSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="OdstraniPodjetje">
+      <wsdl:input message="tns:OdstraniPodjetjeSoapIn" />
+      <wsdl:output message="tns:OdstraniPodjetjeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="OdstraniOseboIzPodjetjaByIndex">
+      <wsdl:input message="tns:OdstraniOseboIzPodjetjaByIndexSoapIn" />
+      <wsdl:output message="tns:OdstraniOseboIzPodjetjaByIndexSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AddOsebaVPodjetjeByIndex">
+      <wsdl:input message="tns:AddOsebaVPodjetjeByIndexSoapIn" />
+      <wsdl:output message="tns:AddOsebaVPodjetjeByIndexSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="StoritveIzpitiSoap" type="tns:StoritveIzpitiSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="getPodjetjeMax">
+      <soap:operation soapAction="http://tempuri.org/getPodjetjeMax" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getOsebeVPod">
+      <soap:operation soapAction="http://tempuri.org/getOsebeVPod" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getOsebaIme">
+      <soap:operation soapAction="http://tempuri.org/getOsebaIme" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="minOseba">
+      <soap:operation soapAction="http://tempuri.org/minOseba" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listaOseb">
+      <soap:operation soapAction="http://tempuri.org/listaOseb" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listaPodjetja">
+      <soap:operation soapAction="http://tempuri.org/listaPodjetja" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="povprecna">
+      <soap:operation soapAction="http://tempuri.org/povprecna" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getOsebeAll">
+      <soap:operation soapAction="http://tempuri.org/getOsebeAll" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getPodjetjeAll">
+      <soap:operation soapAction="http://tempuri.org/getPodjetjeAll" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="isAdministrator">
+      <soap:operation soapAction="http://tempuri.org/isAdministrator" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getPodjetjeWithMaxOseb">
+      <soap:operation soapAction="http://tempuri.org/getPodjetjeWithMaxOseb" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getOsebaWithMaxPod">
+      <soap:operation soapAction="http://tempuri.org/getOsebaWithMaxPod" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertNewOseba">
+      <soap:operation soapAction="http://tempuri.org/InsertNewOseba" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertNewPodjetje">
+      <soap:operation soapAction="http://tempuri.org/InsertNewPodjetje" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertNewUser">
+      <soap:operation soapAction="http://tempuri.org/InsertNewUser" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RemoveOseba">
+      <soap:operation soapAction="http://tempuri.org/RemoveOseba" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RemovePodjetje">
+      <soap:operation soapAction="http://tempuri.org/RemovePodjetje" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddOsebaVPodjetje">
+      <soap:operation soapAction="http://tempuri.org/AddOsebaVPodjetje" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RemoveOsebeIzPodjetja">
+      <soap:operation soapAction="http://tempuri.org/RemoveOsebeIzPodjetja" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateOsebe">
+      <soap:operation soapAction="http://tempuri.org/UpdateOsebe" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdatePodjetje">
+      <soap:operation soapAction="http://tempuri.org/UpdatePodjetje" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="OdstraniOsebo">
+      <soap:operation soapAction="http://tempuri.org/OdstraniOsebo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="OdstraniPodjetje">
+      <soap:operation soapAction="http://tempuri.org/OdstraniPodjetje" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="OdstraniOseboIzPodjetjaByIndex">
+      <soap:operation soapAction="http://tempuri.org/OdstraniOseboIzPodjetjaByIndex" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddOsebaVPodjetjeByIndex">
+      <soap:operation soapAction="http://tempuri.org/AddOsebaVPodjetjeByIndex" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="StoritveIzpitiSoap12" type="tns:StoritveIzpitiSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="getPodjetjeMax">
+      <soap12:operation soapAction="http://tempuri.org/getPodjetjeMax" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getOsebeVPod">
+      <soap12:operation soapAction="http://tempuri.org/getOsebeVPod" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getOsebaIme">
+      <soap12:operation soapAction="http://tempuri.org/getOsebaIme" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="minOseba">
+      <soap12:operation soapAction="http://tempuri.org/minOseba" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listaOseb">
+      <soap12:operation soapAction="http://tempuri.org/listaOseb" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listaPodjetja">
+      <soap12:operation soapAction="http://tempuri.org/listaPodjetja" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="povprecna">
+      <soap12:operation soapAction="http://tempuri.org/povprecna" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getOsebeAll">
+      <soap12:operation soapAction="http://tempuri.org/getOsebeAll" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getPodjetjeAll">
+      <soap12:operation soapAction="http://tempuri.org/getPodjetjeAll" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="isAdministrator">
+      <soap12:operation soapAction="http://tempuri.org/isAdministrator" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getPodjetjeWithMaxOseb">
+      <soap12:operation soapAction="http://tempuri.org/getPodjetjeWithMaxOseb" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getOsebaWithMaxPod">
+      <soap12:operation soapAction="http://tempuri.org/getOsebaWithMaxPod" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertNewOseba">
+      <soap12:operation soapAction="http://tempuri.org/InsertNewOseba" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertNewPodjetje">
+      <soap12:operation soapAction="http://tempuri.org/InsertNewPodjetje" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertNewUser">
+      <soap12:operation soapAction="http://tempuri.org/InsertNewUser" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RemoveOseba">
+      <soap12:operation soapAction="http://tempuri.org/RemoveOseba" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RemovePodjetje">
+      <soap12:operation soapAction="http://tempuri.org/RemovePodjetje" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddOsebaVPodjetje">
+      <soap12:operation soapAction="http://tempuri.org/AddOsebaVPodjetje" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RemoveOsebeIzPodjetja">
+      <soap12:operation soapAction="http://tempuri.org/RemoveOsebeIzPodjetja" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateOsebe">
+      <soap12:operation soapAction="http://tempuri.org/UpdateOsebe" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdatePodjetje">
+      <soap12:operation soapAction="http://tempuri.org/UpdatePodjetje" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="OdstraniOsebo">
+      <soap12:operation soapAction="http://tempuri.org/OdstraniOsebo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="OdstraniPodjetje">
+      <soap12:operation soapAction="http://tempuri.org/OdstraniPodjetje" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="OdstraniOseboIzPodjetjaByIndex">
+      <soap12:operation soapAction="http://tempuri.org/OdstraniOseboIzPodjetjaByIndex" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddOsebaVPodjetjeByIndex">
+      <soap12:operation soapAction="http://tempuri.org/AddOsebaVPodjetjeByIndex" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="StoritveIzpiti">
+    <wsdl:port name="StoritveIzpitiSoap" binding="tns:StoritveIzpitiSoap">
+      <soap:address location="http://localhost:52838/StoritveIzpiti.asmx" />
+    </wsdl:port>
+    <wsdl:port name="StoritveIzpitiSoap12" binding="tns:StoritveIzpitiSoap12">
+      <soap12:address location="http://localhost:52838/StoritveIzpiti.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

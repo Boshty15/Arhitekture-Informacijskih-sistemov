@@ -1,0 +1,11 @@
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga6\WcfService\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga6\WcfService\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga6\WcfService\WcfService\bin\WcfService.dll.config
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga6\WcfService\WcfService\bin\WcfService.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga6\WcfService\WcfService\bin\WcfService.pdb
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga6\WcfService\WcfService\bin\EntityFramework.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga6\WcfService\WcfService\bin\EntityFramework.SqlServer.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga6\WcfService\WcfService\bin\EntityFramework.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga6\WcfService\WcfService\bin\EntityFramework.SqlServer.xml
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga6\WcfService\WcfService\obj\Debug\WcfService.dll
+c:\Users\Bostjan\Documents\FERI\3.Letnik\Arhitekture informacijskih sistemov\Naloga6\WcfService\WcfService\obj\Debug\WcfService.pdb

@@ -1,0 +1,9 @@
+C:\Users\bostj\Documents\FERI\2.Letnik\2.Semester\Računalniska Omrezja\WebAIR\Service\Service\bin\Debug\Service.exe.config
+C:\Users\bostj\Documents\FERI\2.Letnik\2.Semester\Računalniska Omrezja\WebAIR\Service\Service\bin\Debug\Service.exe
+C:\Users\bostj\Documents\FERI\2.Letnik\2.Semester\Računalniska Omrezja\WebAIR\Service\Service\bin\Debug\Service.pdb
+C:\Users\bostj\Documents\FERI\2.Letnik\2.Semester\Računalniska Omrezja\WebAIR\Service\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\bostj\Documents\FERI\2.Letnik\2.Semester\Računalniska Omrezja\WebAIR\Service\Service\obj\Debug\Service.Form1.resources
+C:\Users\bostj\Documents\FERI\2.Letnik\2.Semester\Računalniska Omrezja\WebAIR\Service\Service\obj\Debug\Service.Properties.Resources.resources
+C:\Users\bostj\Documents\FERI\2.Letnik\2.Semester\Računalniska Omrezja\WebAIR\Service\Service\obj\Debug\Service.csproj.GenerateResource.Cache
+C:\Users\bostj\Documents\FERI\2.Letnik\2.Semester\Računalniska Omrezja\WebAIR\Service\Service\obj\Debug\Service.exe
+C:\Users\bostj\Documents\FERI\2.Letnik\2.Semester\Računalniska Omrezja\WebAIR\Service\Service\obj\Debug\Service.pdb
